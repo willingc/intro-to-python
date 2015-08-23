@@ -1,6 +1,8 @@
 Intro to Python Workshop, San Diego, 2014
 ==========================================
 
+http://mybinder.org/repo/pythonsd/intro-to-python
+
 Brought to you by San Diego Python, San Diego PyLadies, Inland Empire Python, 
 Inland Empire PyLadies.
 
